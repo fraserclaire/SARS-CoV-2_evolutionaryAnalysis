@@ -2,7 +2,7 @@
 
 ## Claire Fraser - Master's Thesis Project
 
-### Manuscript: "ClaireFraser_MSMicrobiologyThesis2022.pdf"
+### Manuscript: [ClaireFraser_MSMicrobiologyThesis2022.pdf](https://github.com/fraserclaire/SARS-CoV-2_evolutionaryAnalysis/blob/main/ClaireFraser_MSMicrobiologyThesis2022.pdf)
 
 ** Please see acknowledgements listed in Manuscript **
 
