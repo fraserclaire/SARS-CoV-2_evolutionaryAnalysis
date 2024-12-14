@@ -2,13 +2,17 @@
 
 ## Claire Fraser - Master's Thesis Project
 
+### Manuscript: "ClaireFraser_MSMicrobiologyThesis2022.pdf"
+
+** Please see acknowledgements listed in Manuscript **
+
 Steps below describe process for one locality-variant scenario (B.1.1.7 in the State of Hawai'i). 
 Additional scenarios included: 
 - B.1.243 in Hawai'i
 - B.1.1.7 in LA County
 - B.1.243 in LA County
 
-* Modify below file names to access data for alternative scenarios. *
+_Modify below file names to access data for alternative scenarios._
 
 1. Sequence Selection
 	-Summary: "sequence_counts.csv"
