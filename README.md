@@ -4,7 +4,7 @@
 
 ### Manuscript: [ClaireFraser_MSMicrobiologyThesis2022.pdf](https://github.com/fraserclaire/SARS-CoV-2_evolutionaryAnalysis/blob/main/ClaireFraser_MSMicrobiologyThesis2022.pdf)
 
-** Please see acknowledgements listed in Manuscript **
+**Please see acknowledgements listed in Manuscript**
 
 Steps below describe process for one locality-variant scenario (B.1.1.7 in the State of Hawai'i). 
 Additional scenarios included: 
