@@ -1,0 +1,1795 @@
+{
+ "MLE":{
+   "content":{
+     "0":      [
+[0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [39.36636465830712, 0, 10.1140455031772, 2.442960678290675, 0.1180532210479398, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [39.72536635520401, 0, 8.567625730355415, 2.75967846852396, 0.09666766413770489, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [23.21324161650898, 0, 6.160850521764988, 2.553098131164084, 0.1100782093509362, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [16.15010289167221, 0, 7.568160342354956, 1.482079528813747, 0.22344944403357, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 25.48275862068991, 9.424579636998136, 1.969933574470712, 0.160454912904491, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519607873e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519607873e-05, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519607873e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519607873e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 8.272518900359808, 5.979508527328993, 0.6427386780871647, 0.422720818719608, 0],
+      [0, 8.887351142581284, 8.02126941613051, 0.2191336808555722, 0.6397008043420838, 0],
+      [0, 13.26225227055123, 8.626915765325387, 0.8377221401927848, 0.3600490535571784, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519519055e-05, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519607873e-05, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.02291429294847448, 0, 0, -2.824537519607873e-05, 1, 0] 
+      ]
+    },
+   "headers":    [
+["alpha", "Synonymous substitution rate at a site"],
+    ["beta", "Non-synonymous substitution rate at a site"],
+    ["alpha=beta", "The rate estimate under the neutral model"],
+    ["LRT", "Likelihood ration test statistic for beta = alpha, versus beta &neq; alpha"],
+    ["p-value", "Asymptotic p-value for evidence of selection, i.e. beta &neq; alpha"],
+    ["Total branch length", "The total length of branches contributing to inference at this site, and used to scale dN-dS"] 
+    ]
+  },
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond and Simon DW Frost",
+   "citation":"Not So Different After All: A Comparison of Methods for Detecting Amino Acid Sites Under Selection (2005). _Mol Biol Evol_ 22 (5): 1208-1222",
+   "contact":"spond@temple.edu",
+   "info":"FEL (Fixed Effects Likelihood)\n    estimates site-wise synonymous (&alpha;) and non-synonymous (&beta;) rates, and\n    uses a likelihood ratio test to determine if beta &neq; alpha at a site.\n    The estimates aggregate information over all branches,\n    so the signal is derived from\n    pervasive diversification or conservation. A subset of branches can be selected\n    for testing as well, in which case an additional (nuisance) parameter will be\n    inferred -- the non-synonymous rate on branches NOT selected for testing.\n    Multiple partitions within a NEXUS file are also supported\n    for recombination - aware analysis.\n    ",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "version":"2.1"
+  },
+ "branch attributes":{
+   "0":{
+     "NODE_0000333":{
+       "Global MG94xREV":0.002780340986485087,
+       "Nucleotide GTR":0.002762358355091158
+      },
+     "NODE_0000369":{
+       "Global MG94xREV":0.002783571059364051,
+       "Nucleotide GTR":0.002761141708481956
+      },
+     "NODE_0000531":{
+       "Global MG94xREV":0.002781814460683961,
+       "Nucleotide GTR":0.002762850367914469
+      },
+     "NODE_0000605":{
+       "Global MG94xREV":0.002785179671549951,
+       "Nucleotide GTR":0.002759454626513321
+      },
+     "NODE_0000642":{
+       "Global MG94xREV":0.002794809887217498,
+       "Nucleotide GTR":0.002762846933491493
+      },
+     "USA_HI_BL224_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_BL224_2021"
+      },
+     "USA_HI_BL228_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_BL228_2021"
+      },
+     "USA_HI_BL229_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_BL229_2021"
+      },
+     "USA_HI_BL235_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_BL235_2021"
+      },
+     "USA_HI_BL237_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_BL237_2021"
+      },
+     "USA_HI_BL238_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_BL238_2021"
+      },
+     "USA_HI_CDC_2_4175178_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_2_4175178_2021"
+      },
+     "USA_HI_CDC_2_4175313_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_2_4175313_2021"
+      },
+     "USA_HI_CDC_2_4175322_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_2_4175322_2021"
+      },
+     "USA_HI_CDC_2_4282529_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_2_4282529_2021"
+      },
+     "USA_HI_CDC_ASC210002335_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210002335_2021"
+      },
+     "USA_HI_CDC_ASC210015434_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210015434_2021"
+      },
+     "USA_HI_CDC_ASC210015563_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210015563_2021"
+      },
+     "USA_HI_CDC_ASC210032736_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210032736_2021"
+      },
+     "USA_HI_CDC_ASC210046088_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210046088_2021"
+      },
+     "USA_HI_CDC_ASC210046113_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210046113_2021"
+      },
+     "USA_HI_CDC_ASC210055949_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210055949_2021"
+      },
+     "USA_HI_CDC_ASC210073233_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_ASC210073233_2021"
+      },
+     "USA_HI_CDC_LC0034733_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_LC0034733_2021"
+      },
+     "USA_HI_CDC_LC0045000_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_LC0045000_2021"
+      },
+     "USA_HI_CDC_LC0056299_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_LC0056299_2021"
+      },
+     "USA_HI_CDC_QDX22524334_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX22524334_2021"
+      },
+     "USA_HI_CDC_QDX22524336_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX22524336_2021"
+      },
+     "USA_HI_CDC_QDX23091000_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX23091000_2021"
+      },
+     "USA_HI_CDC_QDX23179754_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX23179754_2021"
+      },
+     "USA_HI_CDC_QDX23654501_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX23654501_2021"
+      },
+     "USA_HI_CDC_QDX23892458_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX23892458_2021"
+      },
+     "USA_HI_CDC_QDX24042189_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX24042189_2021"
+      },
+     "USA_HI_CDC_QDX24042190_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX24042190_2021"
+      },
+     "USA_HI_CDC_QDX24326149_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX24326149_2021"
+      },
+     "USA_HI_CDC_QDX24326150_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_CDC_QDX24326150_2021"
+      },
+     "USA_HI_H211017_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211017_2021"
+      },
+     "USA_HI_H211023_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211023_2021"
+      },
+     "USA_HI_H211111_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211111_2021"
+      },
+     "USA_HI_H211123_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211123_2021"
+      },
+     "USA_HI_H211141_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211141_2021"
+      },
+     "USA_HI_H211279_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211279_2021"
+      },
+     "USA_HI_H211314_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211314_2021"
+      },
+     "USA_HI_H211317_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211317_2021"
+      },
+     "USA_HI_H211328_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211328_2021"
+      },
+     "USA_HI_H211349_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211349_2021"
+      },
+     "USA_HI_H211350_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211350_2021"
+      },
+     "USA_HI_H211357_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211357_2021"
+      },
+     "USA_HI_H211406_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211406_2021"
+      },
+     "USA_HI_H211411_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211411_2021"
+      },
+     "USA_HI_H211424_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211424_2021"
+      },
+     "USA_HI_H211450_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211450_2021"
+      },
+     "USA_HI_H211456_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211456_2021"
+      },
+     "USA_HI_H211457_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211457_2021"
+      },
+     "USA_HI_H211461_2021":{
+       "Global MG94xREV":0.002781074693728893,
+       "Nucleotide GTR":0.002761141385972723,
+       "original name":"USA_HI_H211461_2021"
+      },
+     "USA_HI_H211470_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211470_2021"
+      },
+     "USA_HI_H211472_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211472_2021"
+      },
+     "USA_HI_H211518_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211518_2021"
+      },
+     "USA_HI_H211524_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211524_2021"
+      },
+     "USA_HI_H211531_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211531_2021"
+      },
+     "USA_HI_H211545_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211545_2021"
+      },
+     "USA_HI_H211551_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211551_2021"
+      },
+     "USA_HI_H211562_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211562_2021"
+      },
+     "USA_HI_H211570_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211570_2021"
+      },
+     "USA_HI_H211575_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211575_2021"
+      },
+     "USA_HI_H211576_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211576_2021"
+      },
+     "USA_HI_H211577_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211577_2021"
+      },
+     "USA_HI_H211589_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211589_2021"
+      },
+     "USA_HI_H211596_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211596_2021"
+      },
+     "USA_HI_H211604_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211604_2021"
+      },
+     "USA_HI_H211608_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211608_2021"
+      },
+     "USA_HI_H211612_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211612_2021"
+      },
+     "USA_HI_H211614_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211614_2021"
+      },
+     "USA_HI_H211615_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211615_2021"
+      },
+     "USA_HI_H211616_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211616_2021"
+      },
+     "USA_HI_H211617_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211617_2021"
+      },
+     "USA_HI_H211618_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211618_2021"
+      },
+     "USA_HI_H211624_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211624_2021"
+      },
+     "USA_HI_H211625_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211625_2021"
+      },
+     "USA_HI_H211626_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211626_2021"
+      },
+     "USA_HI_H211627_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211627_2021"
+      },
+     "USA_HI_H211639_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211639_2021"
+      },
+     "USA_HI_H211651_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211651_2021"
+      },
+     "USA_HI_H211652_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211652_2021"
+      },
+     "USA_HI_H211655_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211655_2021"
+      },
+     "USA_HI_H211672_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211672_2021"
+      },
+     "USA_HI_H211679_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211679_2021"
+      },
+     "USA_HI_H211685_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211685_2021"
+      },
+     "USA_HI_H211688_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211688_2021"
+      },
+     "USA_HI_H211689_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211689_2021"
+      },
+     "USA_HI_H211705_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211705_2021"
+      },
+     "USA_HI_H211727_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211727_2021"
+      },
+     "USA_HI_H211735_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211735_2021"
+      },
+     "USA_HI_H211753_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211753_2021"
+      },
+     "USA_HI_H211759_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211759_2021"
+      },
+     "USA_HI_H211762_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211762_2021"
+      },
+     "USA_HI_H211763_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211763_2021"
+      },
+     "USA_HI_H211765_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211765_2021"
+      },
+     "USA_HI_H211773_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211773_2021"
+      },
+     "USA_HI_H211774_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211774_2021"
+      },
+     "USA_HI_H211775_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211775_2021"
+      },
+     "USA_HI_H211776_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211776_2021"
+      },
+     "USA_HI_H211777_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211777_2021"
+      },
+     "USA_HI_H211780_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211780_2021"
+      },
+     "USA_HI_H211788_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211788_2021"
+      },
+     "USA_HI_H211790_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211790_2021"
+      },
+     "USA_HI_H211796_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211796_2021"
+      },
+     "USA_HI_H211806_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211806_2021"
+      },
+     "USA_HI_H211807_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211807_2021"
+      },
+     "USA_HI_H211822_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211822_2021"
+      },
+     "USA_HI_H211828_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211828_2021"
+      },
+     "USA_HI_H211834_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211834_2021"
+      },
+     "USA_HI_H211840_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211840_2021"
+      },
+     "USA_HI_H211842_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211842_2021"
+      },
+     "USA_HI_H211847_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211847_2021"
+      },
+     "USA_HI_H211859_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211859_2021"
+      },
+     "USA_HI_H211860_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211860_2021"
+      },
+     "USA_HI_H211861_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211861_2021"
+      },
+     "USA_HI_H211862_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211862_2021"
+      },
+     "USA_HI_H211869_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211869_2021"
+      },
+     "USA_HI_H211871_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211871_2021"
+      },
+     "USA_HI_H211873_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211873_2021"
+      },
+     "USA_HI_H211874_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211874_2021"
+      },
+     "USA_HI_H211877_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211877_2021"
+      },
+     "USA_HI_H211879_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211879_2021"
+      },
+     "USA_HI_H211884_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211884_2021"
+      },
+     "USA_HI_H211885_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211885_2021"
+      },
+     "USA_HI_H211886_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211886_2021"
+      },
+     "USA_HI_H211887_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211887_2021"
+      },
+     "USA_HI_H211888_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211888_2021"
+      },
+     "USA_HI_H211897_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211897_2021"
+      },
+     "USA_HI_H211899_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211899_2021"
+      },
+     "USA_HI_H211901_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211901_2021"
+      },
+     "USA_HI_H211908_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211908_2021"
+      },
+     "USA_HI_H211909_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211909_2021"
+      },
+     "USA_HI_H211910_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211910_2021"
+      },
+     "USA_HI_H211928_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211928_2021"
+      },
+     "USA_HI_H211929_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211929_2021"
+      },
+     "USA_HI_H211939_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211939_2021"
+      },
+     "USA_HI_H211944_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211944_2021"
+      },
+     "USA_HI_H211949_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211949_2021"
+      },
+     "USA_HI_H211950_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211950_2021"
+      },
+     "USA_HI_H211958_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211958_2021"
+      },
+     "USA_HI_H211973_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211973_2021"
+      },
+     "USA_HI_H211978_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211978_2021"
+      },
+     "USA_HI_H211979_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211979_2021"
+      },
+     "USA_HI_H211981_2021":{
+       "Global MG94xREV":0.002784605226765853,
+       "Nucleotide GTR":0.002759087275406948,
+       "original name":"USA_HI_H211981_2021"
+      },
+     "USA_HI_H211982_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211982_2021"
+      },
+     "USA_HI_H211987_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211987_2021"
+      },
+     "USA_HI_H211988_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211988_2021"
+      },
+     "USA_HI_H211991_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211991_2021"
+      },
+     "USA_HI_H211994_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211994_2021"
+      },
+     "USA_HI_H211995_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211995_2021"
+      },
+     "USA_HI_H211997_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211997_2021"
+      },
+     "USA_HI_H211998_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H211998_2021"
+      },
+     "USA_HI_H212001_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212001_2021"
+      },
+     "USA_HI_H212003_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212003_2021"
+      },
+     "USA_HI_H212005_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212005_2021"
+      },
+     "USA_HI_H212008_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212008_2021"
+      },
+     "USA_HI_H212012_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212012_2021"
+      },
+     "USA_HI_H212018_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212018_2021"
+      },
+     "USA_HI_H212020_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212020_2021"
+      },
+     "USA_HI_H212021_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212021_2021"
+      },
+     "USA_HI_H212022_2021":{
+       "Global MG94xREV":0.002789786288429103,
+       "Nucleotide GTR":0.002763053991072344,
+       "original name":"USA_HI_H212022_2021"
+      },
+     "USA_HI_H212023_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212023_2021"
+      },
+     "USA_HI_H212024_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212024_2021"
+      },
+     "USA_HI_H212025_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212025_2021"
+      },
+     "USA_HI_H212029_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212029_2021"
+      },
+     "USA_HI_H212033_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212033_2021"
+      },
+     "USA_HI_H212035_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212035_2021"
+      },
+     "USA_HI_H212038_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212038_2021"
+      },
+     "USA_HI_H212039_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212039_2021"
+      },
+     "USA_HI_H212046_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212046_2021"
+      },
+     "USA_HI_H212053_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212053_2021"
+      },
+     "USA_HI_H212054_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212054_2021"
+      },
+     "USA_HI_H212058_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212058_2021"
+      },
+     "USA_HI_H212064_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212064_2021"
+      },
+     "USA_HI_H212067_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212067_2021"
+      },
+     "USA_HI_H212075_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212075_2021"
+      },
+     "USA_HI_H212076_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212076_2021"
+      },
+     "USA_HI_H212077_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212077_2021"
+      },
+     "USA_HI_H212079_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212079_2021"
+      },
+     "USA_HI_H212080_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212080_2021"
+      },
+     "USA_HI_H212085_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212085_2021"
+      },
+     "USA_HI_H212092_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212092_2021"
+      },
+     "USA_HI_H212093_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212093_2021"
+      },
+     "USA_HI_H212094_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212094_2021"
+      },
+     "USA_HI_H212096_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212096_2021"
+      },
+     "USA_HI_H212097_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212097_2021"
+      },
+     "USA_HI_H212103_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212103_2021"
+      },
+     "USA_HI_H212105_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212105_2021"
+      },
+     "USA_HI_H212106_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212106_2021"
+      },
+     "USA_HI_H212112_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212112_2021"
+      },
+     "USA_HI_H212114_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212114_2021"
+      },
+     "USA_HI_H212115_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212115_2021"
+      },
+     "USA_HI_H212117_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212117_2021"
+      },
+     "USA_HI_H212118_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212118_2021"
+      },
+     "USA_HI_H212119_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212119_2021"
+      },
+     "USA_HI_H212120_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212120_2021"
+      },
+     "USA_HI_H212121_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212121_2021"
+      },
+     "USA_HI_H212122_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212122_2021"
+      },
+     "USA_HI_H212123_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212123_2021"
+      },
+     "USA_HI_H212124_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212124_2021"
+      },
+     "USA_HI_H212126_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212126_2021"
+      },
+     "USA_HI_H212130_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212130_2021"
+      },
+     "USA_HI_H212134_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212134_2021"
+      },
+     "USA_HI_H212135_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212135_2021"
+      },
+     "USA_HI_H212136_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212136_2021"
+      },
+     "USA_HI_H212138_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212138_2021"
+      },
+     "USA_HI_H212139_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212139_2021"
+      },
+     "USA_HI_H212140_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212140_2021"
+      },
+     "USA_HI_H212145_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212145_2021"
+      },
+     "USA_HI_H212146_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212146_2021"
+      },
+     "USA_HI_H212149_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212149_2021"
+      },
+     "USA_HI_H212152_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212152_2021"
+      },
+     "USA_HI_H212154_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212154_2021"
+      },
+     "USA_HI_H212155_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212155_2021"
+      },
+     "USA_HI_H212157_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212157_2021"
+      },
+     "USA_HI_H212158_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212158_2021"
+      },
+     "USA_HI_H212160_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212160_2021"
+      },
+     "USA_HI_H212164_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212164_2021"
+      },
+     "USA_HI_H212167_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212167_2021"
+      },
+     "USA_HI_H212168_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212168_2021"
+      },
+     "USA_HI_H212170_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212170_2021"
+      },
+     "USA_HI_H212176_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212176_2021"
+      },
+     "USA_HI_H212178_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212178_2021"
+      },
+     "USA_HI_H212181_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212181_2021"
+      },
+     "USA_HI_H212186_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212186_2021"
+      },
+     "USA_HI_H212188_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212188_2021"
+      },
+     "USA_HI_H212189_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212189_2021"
+      },
+     "USA_HI_H212190_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212190_2021"
+      },
+     "USA_HI_H212192_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212192_2021"
+      },
+     "USA_HI_H212193_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212193_2021"
+      },
+     "USA_HI_H212205_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212205_2021"
+      },
+     "USA_HI_H212212_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212212_2021"
+      },
+     "USA_HI_H212214_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212214_2021"
+      },
+     "USA_HI_H212216_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212216_2021"
+      },
+     "USA_HI_H212218_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212218_2021"
+      },
+     "USA_HI_H212219_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212219_2021"
+      },
+     "USA_HI_H212225_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212225_2021"
+      },
+     "USA_HI_H212228_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212228_2021"
+      },
+     "USA_HI_H212232_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212232_2021"
+      },
+     "USA_HI_H212269_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212269_2021"
+      },
+     "USA_HI_H212272_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212272_2021"
+      },
+     "USA_HI_H212294_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212294_2021"
+      },
+     "USA_HI_H212302_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212302_2021"
+      },
+     "USA_HI_H212304_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212304_2021"
+      },
+     "USA_HI_H212306_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212306_2021"
+      },
+     "USA_HI_H212336_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212336_2021"
+      },
+     "USA_HI_H212339_2021":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"USA_HI_H212339_2021"
+      },
+     "Wuhan_Hu_1_2019":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0,
+       "original name":"Wuhan_Hu_1_2019"
+      }
+    },
+   "attributes":{
+     "Global MG94xREV":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120] 
+      ],
+     "name":"fel.filter.default"
+    }
+  },
+ "fits":{
+   "Global MG94xREV":{
+     "AIC-c":1603.367147759842,
+     "Equilibrium frequencies":      [
+[0.02961409958157421],
+      [0.01301684287892333],
+      [0.008799475848074719],
+      [0.02773767386723916],
+      [0.02463462527655939],
+      [0.01082812076466588],
+      [0.007319884555339647],
+      [0.02307371189458693],
+      [0.01431470400952829],
+      [0.006292011426417261],
+      [0.004253443257905284],
+      [0.01340768745065623],
+      [0.0333755685817896],
+      [0.01467019218420522],
+      [0.009917151417764204],
+      [0.03126080649203188],
+      [0.02424662616667487],
+      [0.01065757620913695],
+      [0.007204595255825449],
+      [0.02271029740882447],
+      [0.02016966776894668],
+      [0.008865553907700705],
+      [0.005993175781274352],
+      [0.01889166560828688],
+      [0.01172020360941813],
+      [0.005151601806178442],
+      [0.003482518464271026],
+      [0.01097758128624481],
+      [0.02732633934297906],
+      [0.01201126053837599],
+      [0.008119695228365141],
+      [0.02559487201672899],
+      [0.02784226063160661],
+      [0.01223803313814583],
+      [0.008272995074821063],
+      [0.02607810320212085],
+      [0.02316071287673676],
+      [0.01018026429099732],
+      [0.006881929096701061],
+      [0.0216931903851436],
+      [0.01345824203770725],
+      [0.005915554567134467],
+      [0.003998955816371765],
+      [0.01260549311789841],
+      [0.03137867746485271],
+      [0.01379246102631927],
+      [0.009323799082120204],
+      [0.02939044354557764],
+      [0.01469656751411581],
+      [0.03131700985147975],
+      [0.0278135364258038],
+      [0.01222540744703788],
+      [0.008264460020276497],
+      [0.02605119903606782],
+      [0.007103947676717902],
+      [0.004802317780794802],
+      [0.01513784760710202],
+      [0.03768243202647036],
+      [0.01656326898047795],
+      [0.01119688443000829],
+      [0.035294775962899] 
+      ],
+     "Log Likelihood":-533.2759668423943,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *test*":        [
+[0.4410614234183391, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":266
+    },
+   "Nucleotide GTR":{
+     "AIC-c":2011.396376192501,
+     "Equilibrium frequencies":      [
+[0.2945842573303765],
+      [0.2177861030844701],
+      [0.1655382702775351],
+      [0.3220913693076182] 
+      ],
+     "Log Likelihood":-547.3525143645277,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":4.52713542236805,
+       "Substitution rate from nucleotide C to nucleotide G":0,
+       "Substitution rate from nucleotide C to nucleotide T":36.27144411546959,
+       "Substitution rate from nucleotide G to nucleotide T":8.076434256415569
+      },
+     "display order":0,
+     "estimated parameters":456
+    }
+  },
+ "input":{
+   "file name":"/home/claire7/claire_update/selection/hi_b117_expo/hi_b117_expo_orf7a.fna",
+   "number of sequences":246,
+   "number of sites":121,
+   "partition count":1,
+   "trees":{
+     "0":"(USA_HI_CDC_ASC210002335_2021,Wuhan_Hu_1_2019,(USA_HI_H211279_2021,USA_HI_H211406_2021,USA_HI_H212076_2021,USA_HI_H211349_2021,USA_HI_H211314_2021)NODE_0000369,USA_HI_H211624_2021,USA_HI_CDC_ASC210015563_2021,USA_HI_H212188_2021,(USA_HI_CDC_QDX24042190_2021,USA_HI_H212038_2021,USA_HI_H212020_2021,USA_HI_H212039_2021,USA_HI_H212121_2021,USA_HI_H212134_2021,USA_HI_H212294_2021,USA_HI_H212112_2021)NODE_0000333,USA_HI_CDC_ASC210046088_2021,USA_HI_CDC_ASC210046113_2021,USA_HI_CDC_QDX22524336_2021,USA_HI_H211424_2021,USA_HI_H212067_2021,USA_HI_H211982_2021,USA_HI_H212021_2021,USA_HI_CDC_ASC210015434_2021,USA_HI_H211840_2021,USA_HI_H211625_2021,USA_HI_H211780_2021,USA_HI_BL238_2021,USA_HI_H211939_2021,USA_HI_H211950_2021,USA_HI_H211328_2021,USA_HI_H211958_2021,USA_HI_H212218_2021,USA_HI_H211759_2021,USA_HI_H211806_2021,USA_HI_H212190_2021,USA_HI_H212167_2021,USA_HI_H211828_2021,USA_HI_H211608_2021,USA_HI_H211655_2021,USA_HI_H211753_2021,USA_HI_H212186_2021,USA_HI_H211562_2021,USA_HI_H211450_2021,USA_HI_CDC_LC0034733_2021,USA_HI_H211470_2021,USA_HI_H211531_2021,USA_HI_H211472_2021,USA_HI_H211763_2021,USA_HI_H212003_2021,USA_HI_H211457_2021,USA_HI_CDC_2_4175313_2021,USA_HI_H211604_2021,USA_HI_H211616_2021,USA_HI_H211570_2021,USA_HI_H211790_2021,USA_HI_H211612_2021,USA_HI_CDC_QDX23892458_2021,USA_HI_H212058_2021,USA_HI_CDC_2_4175178_2021,USA_HI_H211765_2021,USA_HI_CDC_QDX24042189_2021,USA_HI_H212035_2021,USA_HI_CDC_QDX23091000_2021,USA_HI_H211576_2021,USA_HI_H211981_2021,USA_HI_H211887_2021,USA_HI_H212008_2021,USA_HI_H211614_2021,USA_HI_H211639_2021,USA_HI_H211774_2021,USA_HI_H211777_2021,USA_HI_H211775_2021,USA_HI_H211788_2021,USA_HI_H211111_2021,USA_HI_H211141_2021,USA_HI_H211023_2021,USA_HI_H211123_2021,USA_HI_H211017_2021,USA_HI_H212024_2021,USA_HI_H211411_2021,USA_HI_H211456_2021,USA_HI_H211908_2021,USA_HI_H211979_2021,USA_HI_H211909_2021,USA_HI_H211997_2021,USA_HI_H211995_2021,USA_HI_H212157_2021,USA_HI_BL228_2021,USA_HI_H212093_2021,USA_HI_H212119_2021,USA_HI_H212085_2021,USA_HI_H212232_2021,USA_HI_H211727_2021,USA_HI_H211577_2021,USA_HI_H211776_2021,USA_HI_H211874_2021,USA_HI_H211796_2021,USA_HI_H211735_2021,USA_HI_H211773_2021,USA_HI_H212005_2021,USA_HI_H212115_2021,USA_HI_H211615_2021,USA_HI_H212189_2021,USA_HI_H211847_2021,USA_HI_H211901_2021,USA_HI_H211877_2021,USA_HI_H211461_2021,USA_HI_H211679_2021,USA_HI_H211589_2021,USA_HI_CDC_2_4175322_2021,USA_HI_H211617_2021,USA_HI_H211627_2021,USA_HI_H211651_2021,USA_HI_H211652_2021,USA_HI_H211618_2021,USA_HI_H211575_2021,USA_HI_H211988_2021,USA_HI_H211672_2021,USA_HI_H211762_2021,USA_HI_H211871_2021,USA_HI_CDC_2_4282529_2021,USA_HI_H211944_2021,USA_HI_H212118_2021,USA_HI_H211910_2021,USA_HI_H212219_2021,USA_HI_H211888_2021,USA_HI_H212158_2021,USA_HI_H212170_2021,USA_HI_BL235_2021,USA_HI_H212178_2021,(USA_HI_CDC_LC0045000_2021,USA_HI_H212149_2021)NODE_0000531,USA_HI_H211861_2021,USA_HI_H211596_2021,USA_HI_CDC_ASC210055949_2021,USA_HI_H211860_2021,USA_HI_H211899_2021,USA_HI_H211929_2021,USA_HI_H211545_2021,USA_HI_H211869_2021,USA_HI_H211807_2021,USA_HI_H212053_2021,USA_HI_H211991_2021,USA_HI_H212022_2021,USA_HI_H211862_2021,USA_HI_H211518_2021,USA_HI_CDC_ASC210073233_2021,USA_HI_H211705_2021,USA_HI_H211626_2021,USA_HI_H211689_2021,USA_HI_H211685_2021,USA_HI_H211822_2021,USA_HI_H211834_2021,USA_HI_H211842_2021,USA_HI_H211357_2021,USA_HI_CDC_QDX22524334_2021,USA_HI_H212012_2021,USA_HI_H212018_2021,USA_HI_H211873_2021,USA_HI_CDC_ASC210032736_2021,USA_HI_H212001_2021,(USA_HI_H211879_2021,USA_HI_H212075_2021,USA_HI_H211928_2021,USA_HI_H212181_2021,USA_HI_H211886_2021,USA_HI_H212025_2021,USA_HI_H212216_2021)NODE_0000605,USA_HI_H211688_2021,USA_HI_H211317_2021,USA_HI_CDC_QDX23179754_2021,USA_HI_H211978_2021,USA_HI_H212212_2021,USA_HI_H212080_2021,USA_HI_CDC_LC0056299_2021,USA_HI_H212046_2021,USA_HI_H212054_2021,USA_HI_H211524_2021,USA_HI_H211551_2021,USA_HI_H211350_2021,USA_HI_H212138_2021,USA_HI_CDC_QDX23654501_2021,USA_HI_H212124_2021,(USA_HI_H211884_2021,USA_HI_H211885_2021)NODE_0000642,USA_HI_H211897_2021,USA_HI_H212145_2021,USA_HI_H212126_2021,USA_HI_H211859_2021,USA_HI_H212306_2021,USA_HI_H212123_2021,USA_HI_H212079_2021,USA_HI_H212140_2021,USA_HI_H212164_2021,USA_HI_H212272_2021,USA_HI_H212130_2021,USA_HI_BL229_2021,USA_HI_H212023_2021,USA_HI_H212155_2021,USA_HI_H212097_2021,USA_HI_H212135_2021,USA_HI_H211994_2021,USA_HI_H211998_2021,USA_HI_H212103_2021,USA_HI_H212122_2021,USA_HI_H212136_2021,USA_HI_H212096_2021,USA_HI_H212120_2021,USA_HI_H212105_2021,USA_HI_H212176_2021,USA_HI_H212336_2021,USA_HI_H212168_2021,USA_HI_H212225_2021,USA_HI_BL224_2021,USA_HI_H212106_2021,USA_HI_H212092_2021,USA_HI_H212152_2021,USA_HI_H212160_2021,USA_HI_H212114_2021,USA_HI_H212228_2021,USA_HI_H212077_2021,USA_HI_H212117_2021,USA_HI_H212269_2021,USA_HI_H212302_2021,USA_HI_H212146_2021,USA_HI_CDC_QDX24326150_2021,USA_HI_H212304_2021,USA_HI_H212094_2021,USA_HI_H212033_2021,USA_HI_H211973_2021,USA_HI_H211949_2021,USA_HI_H212064_2021,USA_HI_H211987_2021,USA_HI_CDC_QDX24326149_2021,USA_HI_BL237_2021,USA_HI_H212139_2021,USA_HI_H212205_2021,USA_HI_H212193_2021,USA_HI_H212154_2021,USA_HI_H212214_2021,USA_HI_H212339_2021,USA_HI_H212029_2021,USA_HI_H212192_2021)"
+    }
+  },
+ "tested":{
+   "0":{
+     "NODE_0000333":"test",
+     "NODE_0000369":"test",
+     "NODE_0000531":"test",
+     "NODE_0000605":"test",
+     "NODE_0000642":"test",
+     "USA_HI_BL224_2021":"test",
+     "USA_HI_BL228_2021":"test",
+     "USA_HI_BL229_2021":"test",
+     "USA_HI_BL235_2021":"test",
+     "USA_HI_BL237_2021":"test",
+     "USA_HI_BL238_2021":"test",
+     "USA_HI_CDC_2_4175178_2021":"test",
+     "USA_HI_CDC_2_4175313_2021":"test",
+     "USA_HI_CDC_2_4175322_2021":"test",
+     "USA_HI_CDC_2_4282529_2021":"test",
+     "USA_HI_CDC_ASC210002335_2021":"test",
+     "USA_HI_CDC_ASC210015434_2021":"test",
+     "USA_HI_CDC_ASC210015563_2021":"test",
+     "USA_HI_CDC_ASC210032736_2021":"test",
+     "USA_HI_CDC_ASC210046088_2021":"test",
+     "USA_HI_CDC_ASC210046113_2021":"test",
+     "USA_HI_CDC_ASC210055949_2021":"test",
+     "USA_HI_CDC_ASC210073233_2021":"test",
+     "USA_HI_CDC_LC0034733_2021":"test",
+     "USA_HI_CDC_LC0045000_2021":"test",
+     "USA_HI_CDC_LC0056299_2021":"test",
+     "USA_HI_CDC_QDX22524334_2021":"test",
+     "USA_HI_CDC_QDX22524336_2021":"test",
+     "USA_HI_CDC_QDX23091000_2021":"test",
+     "USA_HI_CDC_QDX23179754_2021":"test",
+     "USA_HI_CDC_QDX23654501_2021":"test",
+     "USA_HI_CDC_QDX23892458_2021":"test",
+     "USA_HI_CDC_QDX24042189_2021":"test",
+     "USA_HI_CDC_QDX24042190_2021":"test",
+     "USA_HI_CDC_QDX24326149_2021":"test",
+     "USA_HI_CDC_QDX24326150_2021":"test",
+     "USA_HI_H211017_2021":"test",
+     "USA_HI_H211023_2021":"test",
+     "USA_HI_H211111_2021":"test",
+     "USA_HI_H211123_2021":"test",
+     "USA_HI_H211141_2021":"test",
+     "USA_HI_H211279_2021":"test",
+     "USA_HI_H211314_2021":"test",
+     "USA_HI_H211317_2021":"test",
+     "USA_HI_H211328_2021":"test",
+     "USA_HI_H211349_2021":"test",
+     "USA_HI_H211350_2021":"test",
+     "USA_HI_H211357_2021":"test",
+     "USA_HI_H211406_2021":"test",
+     "USA_HI_H211411_2021":"test",
+     "USA_HI_H211424_2021":"test",
+     "USA_HI_H211450_2021":"test",
+     "USA_HI_H211456_2021":"test",
+     "USA_HI_H211457_2021":"test",
+     "USA_HI_H211461_2021":"test",
+     "USA_HI_H211470_2021":"test",
+     "USA_HI_H211472_2021":"test",
+     "USA_HI_H211518_2021":"test",
+     "USA_HI_H211524_2021":"test",
+     "USA_HI_H211531_2021":"test",
+     "USA_HI_H211545_2021":"test",
+     "USA_HI_H211551_2021":"test",
+     "USA_HI_H211562_2021":"test",
+     "USA_HI_H211570_2021":"test",
+     "USA_HI_H211575_2021":"test",
+     "USA_HI_H211576_2021":"test",
+     "USA_HI_H211577_2021":"test",
+     "USA_HI_H211589_2021":"test",
+     "USA_HI_H211596_2021":"test",
+     "USA_HI_H211604_2021":"test",
+     "USA_HI_H211608_2021":"test",
+     "USA_HI_H211612_2021":"test",
+     "USA_HI_H211614_2021":"test",
+     "USA_HI_H211615_2021":"test",
+     "USA_HI_H211616_2021":"test",
+     "USA_HI_H211617_2021":"test",
+     "USA_HI_H211618_2021":"test",
+     "USA_HI_H211624_2021":"test",
+     "USA_HI_H211625_2021":"test",
+     "USA_HI_H211626_2021":"test",
+     "USA_HI_H211627_2021":"test",
+     "USA_HI_H211639_2021":"test",
+     "USA_HI_H211651_2021":"test",
+     "USA_HI_H211652_2021":"test",
+     "USA_HI_H211655_2021":"test",
+     "USA_HI_H211672_2021":"test",
+     "USA_HI_H211679_2021":"test",
+     "USA_HI_H211685_2021":"test",
+     "USA_HI_H211688_2021":"test",
+     "USA_HI_H211689_2021":"test",
+     "USA_HI_H211705_2021":"test",
+     "USA_HI_H211727_2021":"test",
+     "USA_HI_H211735_2021":"test",
+     "USA_HI_H211753_2021":"test",
+     "USA_HI_H211759_2021":"test",
+     "USA_HI_H211762_2021":"test",
+     "USA_HI_H211763_2021":"test",
+     "USA_HI_H211765_2021":"test",
+     "USA_HI_H211773_2021":"test",
+     "USA_HI_H211774_2021":"test",
+     "USA_HI_H211775_2021":"test",
+     "USA_HI_H211776_2021":"test",
+     "USA_HI_H211777_2021":"test",
+     "USA_HI_H211780_2021":"test",
+     "USA_HI_H211788_2021":"test",
+     "USA_HI_H211790_2021":"test",
+     "USA_HI_H211796_2021":"test",
+     "USA_HI_H211806_2021":"test",
+     "USA_HI_H211807_2021":"test",
+     "USA_HI_H211822_2021":"test",
+     "USA_HI_H211828_2021":"test",
+     "USA_HI_H211834_2021":"test",
+     "USA_HI_H211840_2021":"test",
+     "USA_HI_H211842_2021":"test",
+     "USA_HI_H211847_2021":"test",
+     "USA_HI_H211859_2021":"test",
+     "USA_HI_H211860_2021":"test",
+     "USA_HI_H211861_2021":"test",
+     "USA_HI_H211862_2021":"test",
+     "USA_HI_H211869_2021":"test",
+     "USA_HI_H211871_2021":"test",
+     "USA_HI_H211873_2021":"test",
+     "USA_HI_H211874_2021":"test",
+     "USA_HI_H211877_2021":"test",
+     "USA_HI_H211879_2021":"test",
+     "USA_HI_H211884_2021":"test",
+     "USA_HI_H211885_2021":"test",
+     "USA_HI_H211886_2021":"test",
+     "USA_HI_H211887_2021":"test",
+     "USA_HI_H211888_2021":"test",
+     "USA_HI_H211897_2021":"test",
+     "USA_HI_H211899_2021":"test",
+     "USA_HI_H211901_2021":"test",
+     "USA_HI_H211908_2021":"test",
+     "USA_HI_H211909_2021":"test",
+     "USA_HI_H211910_2021":"test",
+     "USA_HI_H211928_2021":"test",
+     "USA_HI_H211929_2021":"test",
+     "USA_HI_H211939_2021":"test",
+     "USA_HI_H211944_2021":"test",
+     "USA_HI_H211949_2021":"test",
+     "USA_HI_H211950_2021":"test",
+     "USA_HI_H211958_2021":"test",
+     "USA_HI_H211973_2021":"test",
+     "USA_HI_H211978_2021":"test",
+     "USA_HI_H211979_2021":"test",
+     "USA_HI_H211981_2021":"test",
+     "USA_HI_H211982_2021":"test",
+     "USA_HI_H211987_2021":"test",
+     "USA_HI_H211988_2021":"test",
+     "USA_HI_H211991_2021":"test",
+     "USA_HI_H211994_2021":"test",
+     "USA_HI_H211995_2021":"test",
+     "USA_HI_H211997_2021":"test",
+     "USA_HI_H211998_2021":"test",
+     "USA_HI_H212001_2021":"test",
+     "USA_HI_H212003_2021":"test",
+     "USA_HI_H212005_2021":"test",
+     "USA_HI_H212008_2021":"test",
+     "USA_HI_H212012_2021":"test",
+     "USA_HI_H212018_2021":"test",
+     "USA_HI_H212020_2021":"test",
+     "USA_HI_H212021_2021":"test",
+     "USA_HI_H212022_2021":"test",
+     "USA_HI_H212023_2021":"test",
+     "USA_HI_H212024_2021":"test",
+     "USA_HI_H212025_2021":"test",
+     "USA_HI_H212029_2021":"test",
+     "USA_HI_H212033_2021":"test",
+     "USA_HI_H212035_2021":"test",
+     "USA_HI_H212038_2021":"test",
+     "USA_HI_H212039_2021":"test",
+     "USA_HI_H212046_2021":"test",
+     "USA_HI_H212053_2021":"test",
+     "USA_HI_H212054_2021":"test",
+     "USA_HI_H212058_2021":"test",
+     "USA_HI_H212064_2021":"test",
+     "USA_HI_H212067_2021":"test",
+     "USA_HI_H212075_2021":"test",
+     "USA_HI_H212076_2021":"test",
+     "USA_HI_H212077_2021":"test",
+     "USA_HI_H212079_2021":"test",
+     "USA_HI_H212080_2021":"test",
+     "USA_HI_H212085_2021":"test",
+     "USA_HI_H212092_2021":"test",
+     "USA_HI_H212093_2021":"test",
+     "USA_HI_H212094_2021":"test",
+     "USA_HI_H212096_2021":"test",
+     "USA_HI_H212097_2021":"test",
+     "USA_HI_H212103_2021":"test",
+     "USA_HI_H212105_2021":"test",
+     "USA_HI_H212106_2021":"test",
+     "USA_HI_H212112_2021":"test",
+     "USA_HI_H212114_2021":"test",
+     "USA_HI_H212115_2021":"test",
+     "USA_HI_H212117_2021":"test",
+     "USA_HI_H212118_2021":"test",
+     "USA_HI_H212119_2021":"test",
+     "USA_HI_H212120_2021":"test",
+     "USA_HI_H212121_2021":"test",
+     "USA_HI_H212122_2021":"test",
+     "USA_HI_H212123_2021":"test",
+     "USA_HI_H212124_2021":"test",
+     "USA_HI_H212126_2021":"test",
+     "USA_HI_H212130_2021":"test",
+     "USA_HI_H212134_2021":"test",
+     "USA_HI_H212135_2021":"test",
+     "USA_HI_H212136_2021":"test",
+     "USA_HI_H212138_2021":"test",
+     "USA_HI_H212139_2021":"test",
+     "USA_HI_H212140_2021":"test",
+     "USA_HI_H212145_2021":"test",
+     "USA_HI_H212146_2021":"test",
+     "USA_HI_H212149_2021":"test",
+     "USA_HI_H212152_2021":"test",
+     "USA_HI_H212154_2021":"test",
+     "USA_HI_H212155_2021":"test",
+     "USA_HI_H212157_2021":"test",
+     "USA_HI_H212158_2021":"test",
+     "USA_HI_H212160_2021":"test",
+     "USA_HI_H212164_2021":"test",
+     "USA_HI_H212167_2021":"test",
+     "USA_HI_H212168_2021":"test",
+     "USA_HI_H212170_2021":"test",
+     "USA_HI_H212176_2021":"test",
+     "USA_HI_H212178_2021":"test",
+     "USA_HI_H212181_2021":"test",
+     "USA_HI_H212186_2021":"test",
+     "USA_HI_H212188_2021":"test",
+     "USA_HI_H212189_2021":"test",
+     "USA_HI_H212190_2021":"test",
+     "USA_HI_H212192_2021":"test",
+     "USA_HI_H212193_2021":"test",
+     "USA_HI_H212205_2021":"test",
+     "USA_HI_H212212_2021":"test",
+     "USA_HI_H212214_2021":"test",
+     "USA_HI_H212216_2021":"test",
+     "USA_HI_H212218_2021":"test",
+     "USA_HI_H212219_2021":"test",
+     "USA_HI_H212225_2021":"test",
+     "USA_HI_H212228_2021":"test",
+     "USA_HI_H212232_2021":"test",
+     "USA_HI_H212269_2021":"test",
+     "USA_HI_H212272_2021":"test",
+     "USA_HI_H212294_2021":"test",
+     "USA_HI_H212302_2021":"test",
+     "USA_HI_H212304_2021":"test",
+     "USA_HI_H212306_2021":"test",
+     "USA_HI_H212336_2021":"test",
+     "USA_HI_H212339_2021":"test",
+     "Wuhan_Hu_1_2019":"test"
+    }
+  },
+ "timers":{
+   "FEL analysis":{
+     "order":2,
+     "timer":5
+    },
+   "Model fitting":{
+     "order":1,
+     "timer":8
+    },
+   "Total time":{
+     "order":0,
+     "timer":16
+    }
+  }
+}

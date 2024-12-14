@@ -1,0 +1,96 @@
+1. Sequence Selection
+	-Summary: "sequence_counts.csv"
+A) GISAID: Locality, Variant
+	-FASTAs and Metadata: "hi_b117_allseq.tar"
+B) Nextstrain: >27,000bp
+	-input: "hi_b117_allseq.yaml", ""hi_b117_allseq.tar"
+	-output: "hi_b117.nwk"
+
+
+2. Substitution Rate and Effective Reproduction Number (Rt) Estimation
+A) Generate updated fasta and tree files, and table with collection dates
+	-script: "file_cleanup.R"
+	-input: "hi_b117.fasta", "hi_b117.nwk", "hi_b117_allseq.csv"
+	-output: "hi_b117_cleaned.fasta", "hi_b117_updated.nwk", "hi_b117.txt"
+B) BEAUti 2: make .xml file for BEAST
+	-Fixed starting tree, 200M generations, Gamma=4, HKY, Strict clock, Birth Death Skyline Serial, clock.Rate (log normal distribution, mean=0.00135, Mean in Real Space), set operator weight to 0 for tree elements (see https://www.beast2.org/fix-starting-tree/), include starting tree in newick format, all other settings default
+	-manually input starting date for reference (Wuhan; "12/31/2019")
+	-input xml and slurm: "hi_b117.xml", "beast.slurm"
+	-output log files: "hi_b117_cleaned.log"
+C) Average substitution rates from BEAST runs
+	-Open the log file in Tracer software
+	-The substitution rates are listed in the table of estimated means under "clockRate"
+	-Calculate the average for the 2 runs, copy to new spreadsheet ("beastrates.csv")
+	-Generate a bar plot to visualize results
+	-script: "substitution_plot.R"
+	-input: "beastrates.csv"
+	-output: "subrates.pdf"
+D) Generate Rt plots
+	-Read in the log files to generate a table with Rt values
+	-Replace time values with dates
+	-Read in csv with variant from both localities and generate plot
+	-script: "Rt_analysis.R"
+	-input: "hi_b117_cleaned.log", "b117_rt.csv"
+	-output: "b117_both.pdf"
+
+
+3. Division into 2 bins
+A) Generate a table with counts for each day
+	-Open table with collection dates, assign a number to each date (make sure dates without cases also have numbers)
+	-Make a new table with counts (ex:if 1/1/2020 is day 3 and has 2 cases, then the number 3 would be present twice)
+	-use output table for next step: "hi_b117_counts.csv"
+B) Kernel Density Plots
+	-identify point where case counts peak and divide sequences based on collection date
+	-script: "kerneldensityplot.R"
+	-output: "kdp_B117_hi.pdf"
+C) Prune trees
+	-Use date identified in previous step to divide samples into 2 groups (pull list of names from metadata spreadsheet ("hi_b117_allseq.tsv") and save to new text file ("hi_b117_expo.txt"))
+	-Generate new trees and FASTA with only samples from either expo or waning phase
+	-script: "treepruning.R"
+	-input: "hi_b117.nwk", "hi_b117_expo.txt"
+	-output: "hi_b117_expo.nwk", "hi_b117_expo_updated.fasta"
+	
+	
+4. Selection Analyses
+A) Trim sequences for each bin
+	-Open alignment in Mesquite
+	-Trim 3' end first, make sure to also trim off the stop codon
+	-Then trim to right before the start codon
+	1) ORF1a: 266-13483
+	2) S: 21563-25384
+	3) ORF7a: 27394-27759
+	-input: hi_b117_expo_updated.fasta
+	-output: hi_b117_expo_orf1a.fasta
+B) Generate .fna files for selection analysis input
+	-.fna files contain the FASTA and phylogeny
+	-same input file is used for FUBAR, MEME, FEL
+	-input: "hi_b117_expo_updated.fasta", "hi_b117_expo.nwk"
+	-output: "hi_b117_expo.fna"
+C) Run FUBAR, MEME, FEL analyses on Hyphy
+	-default settings used
+	-input: "hi_b117_expo.fna"
+	-output: "hi_b117_expo_orf1a.fna.FUBAR.json", "hi_b117_expo_orf1a.fna.MEME.json", "hi_b117_expo_orf1a.fna.FEL.json"
+D) Collect all sites from each method on a spreadsheet
+	-output: "SitesUnderSelection.xlsx"
+E) Make lollipop plots showing total number of sites under selection
+	-make tables with number of sites normalized by gene length
+	-each locality and phase will have 2 values, a positive value for the sites under positive selection, and a negative value for sites under negative selection
+		-output: "b117_orf1a_perlength.csv"
+	-script: "lolliplot.R"
+		-output: "b117_lolli.pdf"
+
+
+5. Case Incidence Plots
+A) Total Case incidence
+	-includes counts of all sequences during the time span where either variant was circulating the population
+	-download all sequences on GISAID that fall into the date ranges for each variant within each population (ex: B.1.1.7 circulated within Hawai'i from 1/21/21 to 7/13/21, so search for all sequences collected from within the state of Hawai'i between these dates).
+	-generate table with 7-day averages and plot
+		-script: "casecounts_breaky.R"
+		-input: "hi_allcases.csv"
+		-output: "hi_casecounts.pdf"
+B) Variant Only Case Incidence
+	-only includes counts of single variant in a locality
+	-
+
+6. Phylogenetic reconstruction of each variant across localities
+	-mixed together? separate groups?

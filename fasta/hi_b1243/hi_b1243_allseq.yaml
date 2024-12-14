@@ -1,0 +1,12 @@
+inputs:
+  - name: reference_data
+    metadata: data/references_metadata.tsv
+    sequences: data/references_sequences.fasta
+  - name: hi_b1243_allseq
+    metadata: data/hi_b1243_allseq.tar
+    sequences: data/hi_b1243_allseq.tar
+
+
+# GenBank data includes "Wuhan-Hu-1/2019" which we use as the root for this build.
+refine:
+  root: "Wuhan/Hu-1/2019"

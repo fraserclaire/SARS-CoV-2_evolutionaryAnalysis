@@ -1,0 +1,31 @@
+Title: fasta file
+Description
+  Analysis ====================
+    Analysis                                       = ====================
+       Scope                                       = Between group average
+    Estimate Variance                              = ====================
+       Variance Estimation Method                  = Bootstrap method
+          No. of Bootstrap Replications            = 25
+    Substitution Model                             = ====================
+       Substitutions Type                          = Nucleotide
+       Model/Method                                = p-distance
+       Substitutions to Include                    = d: Transitions + Transversions
+    Rates and Patterns                             = ====================
+       Rates among Sites                           = Uniform Rates
+       Pattern among Lineages                      = Same (Homogeneous)
+    Data Subset to Use                             = ====================
+       Gaps/Missing Data Treatment                 = Pairwise deletion
+       Select Codon Positions                      = 1st,2nd,3rd,Non-Coding
+
+[1] #hi
+[2] #la
+
+[            1          2 ]
+[1]             [ 0.00015 ]
+[2]    0.00142             
+
+Table. Estimates of Evolutionary Divergence over Sequence Pairs between Groups
+The number of base differences per site from averaging over all sequence pairs between groups are shown. Standard error estimate(s) are shown above the diagonal. This analysis involved 1540 nucleotide sequences. Codon positions included were 1st+2nd+3rd+Noncoding. All ambiguous positions were removed for each sequence pair (pairwise deletion option). There were a total of 29903 positions in the final dataset. Evolutionary analyses were conducted in MEGA11 [1]
+
+1. Tamura K., Stecher G., and Kumar S. (2021). MEGA 11: Molecular Evolutionary Genetics Analysis Version 11. Molecular Biology and Evolution https://doi.org/10.1093/molbev/msab120.
+Disclaimer: Although utmost care has been taken to ensure the correctness of the caption, the caption text is provided "as is" without any warranty of any kind. Authors advise the user to carefully check the caption prior to its use for any purpose and report any errors or problems to the authors immediately (www.megasoftware.net). In no event shall the authors and their employers be liable for any damages, including but not limited to special, consequential, or other damages. Authors specifically disclaim all other warranties expressed or implied, including but not limited to the determination of suitability of this caption text for a specific purpose, use, or application.
